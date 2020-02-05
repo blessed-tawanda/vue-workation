@@ -21,7 +21,7 @@
             Workcation helps you find work-friendly rentals in beautiful locations so you can enjoy some nice weather even when you're not on vacation.
           </p>
           <div class="mt-4 xl:mt-20">
-            <a href="/home" class="px-5 py-3 inline-block bg-indigo-500 rounded-lg font-semibold tracking-wide text-white uppercase shadow-xl">book your escape</a>
+            <router-link to="home" href="" class="px-5 py-3 inline-block bg-indigo-500 rounded-lg font-semibold tracking-wide text-white uppercase shadow-xl">book your escape</router-link>
           </div>
         </div>
       </div>
